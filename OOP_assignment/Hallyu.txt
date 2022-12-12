@@ -1,0 +1,6 @@
+국가별 K-pop 연상 이미지 비율
+China = 5.8%
+Japan = 21.4%
+Taiwan = 10.3%
+Thailand = 21.8%
+Vietnam = 15.2%
